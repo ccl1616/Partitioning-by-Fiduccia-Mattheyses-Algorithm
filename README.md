@@ -1,6 +1,6 @@
 ## Partitioning by Fiduccia-Mattheyses Algorithm
 - This is a project from *CS313000,Introduction to Computer-Aided Design of Integrated Circuits* course at NTHU.
-- Solve the 2-way partioning problem by [FM algorithm](https://).
+- Solve the 2-way partioning problem by [FM algorithm](https://en.wikipedia.org/wiki/Fiduccia%E2%80%93Mattheyses_algorithm).
 - Solve the k-way partition by directly grouping all the cells into a valid partition. (so the k-way is not cost optimized!)
 - Input: cells' area and nets' connections
 - Output: partition results
